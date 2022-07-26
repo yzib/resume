@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2018 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="80px" height="80px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 43.35 43.35"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <font id="FontID0" horiz-adv-x="739" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="700">
+	<font-face 
+		font-family="Century Gothic">
+		<font-face-src>
+			<font-face-name name="Century Gothic Bold"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="B" horiz-adv-x="580" d="M81.0208 0l0 718.184 113.363 0c65.8492,0 113.862,-4.168 144.37,-12.6694 43.178,-11.5022 77.5191,-32.6753 103.026,-63.5171 25.5066,-31.0072 38.3437,-67.5174 38.3437,-109.528 0,-27.3401 -5.83615,-52.1803 -17.3383,-74.5184 -11.5022,-22.338 -30.3409,-43.3434 -56.3484,-62.8484 43.5112,-20.5068 75.3525,-46.0134 95.5261,-76.8552 20.1713,-30.674 30.1731,-67.0164 30.1731,-109.027 0,-40.3427 -10.5027,-77.0182 -31.3403,-110.194 -21.0054,-33.1762 -48.0123,-58.0141 -81.0208,-74.353 -33.0085,-16.5042 -78.521,-24.6725 -136.703,-24.6725l-202.051 0zm136.034 588.151l0 -152.04 30.5086 0c34.008,0 59.3491,7.00338 75.8534,21.1732 16.5042,14.002 24.6725,33.1739 24.6725,57.3478 0,22.5058 -7.83509,40.3427 -23.5053,53.6807 -15.6725,13.1703 -39.5109,19.8382 -71.52,19.8382l-36.0093 0zm0 -274.07l0 -184.049 34.6766 0c57.5132,0 96.3579,7.16877 116.364,21.5063 20.0036,14.3375 30.0077,35.1752 30.0077,62.5153 0,30.8418 -11.6699,55.3489 -35.1776,73.1858 -23.5053,17.8392 -62.5153,26.8415 -117.03,26.8415l-28.8405 0z"/>
+   <glyph unicode="I" horiz-adv-x="279" d="M72.0185 718.184l136.034 0 0 -718.184 -136.034 0 0 718.184z"/>
+   <glyph unicode="Y" horiz-adv-x="620" d="M30.5086 718.184l146.204 0 133.367 -257.899 133.369 257.899 146.204 0 -210.555 -407.103 0 -311.081 -138.036 0 0 311.081 -210.553 407.103z"/>
+   <glyph unicode="Z" horiz-adv-x="500" d="M44.0121 718.184l435.112 0 -256.401 -586.15 239.395 0 0 -132.034 -439.112 0 255.066 583.149 -234.06 0 0 135.035z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Century Gothic";font-variant:normal;font-style:normal;font-weight:bold;src:url("#FontID0") format(svg)}
+    .str0 {stroke:#373435;stroke-width:0.74;stroke-miterlimit:2.61313}
+    .str1 {stroke:#373435;stroke-width:0.92;stroke-miterlimit:2.61313}
+    .fil0 {fill:none}
+    .fil2 {fill:#FEFEFE}
+    .fil1 {fill:#373435}
+    .fnt0 {font-weight:bold;font-size:15.59px;font-family:'Century Gothic'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1621539749200">
+   <circle class="fil0 str0" cx="21.68" cy="21.68" r="21.31"/>
+   <text x="2.99" y="27.27"  class="fil1 fnt0">Y</text>
+   <text x="31.61" y="27.27"  class="fil1 fnt0">Z</text>
+   <text x="19.49" y="13.42"  class="fil1 fnt0">I</text>
+   <line class="fil0 str1" x1="4.16" y1="4.16" x2="39.19" y2= "39.19" />
+   <line class="fil0 str1" x1="4.16" y1="39.19" x2="39.19" y2= "4.16" />
+   <circle class="fil2" transform="matrix(1.36136E-07 -0.3 0.3 1.36136E-07 21.6757 21.6757)" r="21.31"/>
+   <circle class="fil2" transform="matrix(1.36136E-07 0.3 0.3 -1.36136E-07 21.6757 21.6757)" r="21.31"/>
+   <g>
+    <g transform="matrix(1 0 0 -1 -20.6675 59.4155)">
+     <text x="40" y="29.49"  class="fil1 fnt0">B</text>
+    </g>
+    <g transform="matrix(-1 -0 -0 -1 64.0189 59.4155)">
+     <text x="40" y="29.49"  class="fil1 fnt0">B</text>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
